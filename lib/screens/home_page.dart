@@ -123,7 +123,7 @@ class _HomePageState extends State<HomePage> {
                         borderRadius: BorderRadius.circular(20),
                         color: Colors.white.withOpacity(0.4),
                         border: Border.all(
-                          color: Colors.white,
+                          color: Colors.black,
                         ),
                       ),
                       child: const Text(
